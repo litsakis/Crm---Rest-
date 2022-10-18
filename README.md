@@ -1,5 +1,5 @@
 # Crm---Rest-
-Crm -  Using Spring Rest -JSON using Jackson- Hibernate 
+Crm - JSON CRUD demo -  Using Spring Rest -JSON using Jackson- Hibernate 
 
 Get Customers
 
@@ -13,3 +13,7 @@ Post Customer
 Update Customer
 
 ![image](https://user-images.githubusercontent.com/32014951/196456391-837fee8c-a3a6-4cea-b66c-e67d353dd849.png)
+
+Delete Customer
+
+![image](https://user-images.githubusercontent.com/32014951/196461244-f9a809c8-fa2d-4f36-9633-a07f22c2ab2e.png)
