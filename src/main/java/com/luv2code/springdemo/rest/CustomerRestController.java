@@ -93,7 +93,7 @@ public class CustomerRestController {
 				
 			
 				
-				return "Customer with id: "+customerId+"has deleted";
+				return "Customer with id: "+customerId+"has been deleted";
 			}
 }
 
