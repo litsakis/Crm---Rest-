@@ -8,3 +8,8 @@ Get Customers
 Post Customer
 
 ![image](https://user-images.githubusercontent.com/32014951/196453328-c9286893-cda8-436a-942f-029b60eca268.png)
+
+
+Update Customer
+
+![image](https://user-images.githubusercontent.com/32014951/196456391-837fee8c-a3a6-4cea-b66c-e67d353dd849.png)
